@@ -11,4 +11,4 @@ Préparation du cours [[LOG2440]]
 # Github
 
 
-# Travaux pratiques
+# Travaux pratiques [[LOG2440 - TPs]]
