@@ -9,7 +9,7 @@
 | 3       |         | Kamel Daoudi       |            |
 | 4       |         | Roman Roman        |            |
 | 5       |         | Antoine Poellhuber |            |
-| 6       |         | ??                 |            |
+| 6       |         | Basil Gil          |            |
 | 7       |         | ??                 |            |
 # Sujets des travaux
 
