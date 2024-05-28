@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LOG3900/Planification d'été 2024.md",
+                "file": "Daily Notes/2024-05-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LOG3900/Planification d'été 2024.md",
-                "collapseAll": false,
+                "file": "Daily Notes/2024-05-28.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LOG3900/Planification d'été 2024.md",
+                "file": "Daily Notes/2024-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LOG3900/Planification d'été 2024.md"
+                "file": "Daily Notes/2024-05-28.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   "active": "81cd3a36b6aee665",
   "lastOpenFiles": [
     "LOG3900/Idées pour le cours.md",
-    "LOG3900/Planification d'été 2024.md",
     "Daily Notes/2024-05-28.md",
+    "LOG2990/LOG2990 - Organisation.md",
+    "LOG3900/Planification d'été 2024.md",
     "Daily Notes/2024-05-24.md",
     "Daily Notes/2024-05-25.md",
     "Daily Notes/2024-05-21.md",
@@ -161,7 +162,6 @@
     "LOG2440/LOG2440.md",
     "LOG2440/TP4.md",
     "LOG2440/TP3.md",
-    "LOG2990/LOG2990 - Organisation.md",
     "README.MD",
     "Pasted image 20240521141456.png",
     "2024-05-21.md",

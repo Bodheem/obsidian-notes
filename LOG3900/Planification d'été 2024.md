@@ -5,8 +5,13 @@
 - [ ] Terminer plan de cours (2 sections)
 - [ ] Contacter Jinghui pour LOG3000 et le TP1 avec le SRS (ne plus partager ça)
 - [ ] Trouver 4 chargés
+	- [ ] A
+	- [ ] B
+	- [ ] C
+	- [ ] D
 - [ ] Trouver 1 chargé de cours (Jimmy Bell??)
-- [ ] Appliquer pour [Jira Education](https://www.atlassian.com/solutions/survey/academic-license-request#/) pour le rabais
+- [?] Appliquer pour [Jira Education](https://www.atlassian.com/solutions/survey/academic-license-request#/) pour le rabais
+	- [ ] Attendre la réponse et faire une demande de cout au département
 - [ ] Investiguer Gitlab timesheets
 - [ ] Finir les dossiers sur GDrive
 - [ ] Créer les entrepôts sur GitLab (attendre le nombre final d'étudiants)
@@ -17,7 +22,7 @@
 ## Projet
 
 - [ ] Mise à jour du complément pédagogique
-- [ ] Mise à jour de l'Appel d'offre
+- [x] Mise à jour de l'Appel d'offre
 - [ ] Mise à jour et bonification de l'**Aide à la rédaction des artéfacts**
 - [ ] Prototype
 	- [ ] Ajout de la fonctionnalité de création de compte + connexion avec MdP
@@ -68,7 +73,7 @@
 
 ## Examen
 
-- [ ] Examen théorique : basculer vers QCM + Moodle
+- [ ] Examen théorique : basculer vers QCM sur Moodle
 	- [ ] Au moins 1 question à développement court
 	- [ ] 1 question sur Suivi de l'avancement (question de calculs + 1 QCM basé sur les chiffres en haut)
 	- [ ] 2 questions sur Leadership
@@ -78,3 +83,4 @@
 	- [ ] 1 question sur cours 4
 	- [ ] 1 question sur Suivi de l'avancement théorique
 - [ ] Trouver un correcteur pour la question à développement
+- [ ] Établir une date pour l'examen (1er octobre ??)
