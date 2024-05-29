@@ -1,5 +1,5 @@
 
-Voir [[Planification d'été 2024]] pour les choses à faire avant le début de la session.
+Voir [[LOG3900/Planification d'été 2024]] pour les choses à faire avant le début de la session.
 
 ## Théorie
 
