@@ -5,14 +5,7 @@ Préparation du cours [[LOG2440]]
 ## Organisation générale
 
 - [ ] Terminer plan de cours
-- [ ] Trouver 7 chargés
-	- [ ] A
-	- [ ] B
-	- [ ] C
-	- [ ] D
-	- [ ] E
-	- [ ] F
-	- [ ] G
+- [ ] Trouver 7 chargés de laboratoire [[LOG2440 - TPs#Répartition de l'équipe]]
 - [ ] Trouver 2 chargés de cours
 	- [ ] Emilio Rivera
 	- [ ] Mehdi Lahlou
@@ -21,13 +14,13 @@ Préparation du cours [[LOG2440]]
 - [ ] Configurer Github Classroom
 - [ ] Nettoyer Moodle
 	- [ ] Revoir les quiz pour mettre des questions plus pertinantes /14
-- [ ] Terminer la configuration du Discord
+- [x] Terminer la configuration du Discord
 
 ## GitHub
 
 - [ ] Ajouter 2 exercices pour persistance
 - [ ] Ajouter 1 exercice pour React
-- [ ] Ajouter 1 exercice pour Architecture ?? (voir comment)
+- [ ] Ajouter 1 exercice pour Architecture ?? (ex : REST)
 - [ ] Revoir les typos dans les README
 - [ ] Bonifier le README de CSS
 - [ ] Bonifier le README pour la persistance
@@ -43,7 +36,9 @@ Préparation du cours [[LOG2440]]
 
 ## Cours théorique
 
-- [ ] Cours #1 : MàJ de l'introduction
+- [ ] Cours #1 : 
+	- [ ] MàJ de l'introduction
+	- [ ] Revoir les notes de cours sur HTML Forms
 - [ ] Cours #2 :
 	- [ ] Bonifier `README` sur Github
 	- [ ] Couper 5 slides
@@ -72,10 +67,10 @@ Préparation du cours [[LOG2440]]
 	- [ ] Revoir les notes de cours
 	- [ ] Analyser la possibilité de transformer l'exemple en un serveur HTTP + doc swagger
 - [ ] Cours #11 :
-	- [ ] Mettre à jour React pour React 19
+	- [ ] Mettre à jour React pour React 19 (fin d'été)
 	- [ ] Voir les nouvelles notions à inclure
 - [ ] Cours #12 :
-	- [ ] Présenter useMemento ??
+	- [ ] Présenter `use` et `Context` vs `useContext` et `Context.Provider`
 	- [ ] Montrer un exercice pour BrowserRouter et information partagée (bonifier l'exemple existant)
 - [ ] Cours #13 :
 	- [ ] Remplacer Imgur par Discord comme exemple pour API REST
@@ -89,7 +84,7 @@ Préparation du cours [[LOG2440]]
 - [ ] [[TP4]]
 ## Examen
 
-- [ ] Examen Contrôle périodique
+- [ ] Format de l'examen
 	- [ ] 1 QRL 5 points
 		- [ ] a ) TODO /3
 		- [ ] b ) TODO /2
@@ -101,3 +96,21 @@ Préparation du cours [[LOG2440]]
 - [ ] Trouver un correcteur pour les questions à développement
 - [ ] Établir une date pour l'examen (7 octobre)
 - [ ] Évaluer la possibilité de donner un ancien examen
+
+
+## Examen final
+
+- [ ] Format de l'examen
+	- [ ] 1 QRL 5 points
+		- [ ] a ) TODO /3
+		- [ ] b ) TODO /2
+	- [ ] 1 QRL 5 points
+		- [ ] a) TODO /3
+		- [ ] b) TODO /2
+	- [ ] 1 QRL 5 points
+		- [ ] a) TODO /3
+		- [ ] b) TODO /2
+	- [ ] 5 QCM à 2 points 
+	- [ ] 10 QCM à 1.5 points
+- [ ] Trouver un correcteur pour les questions à développement
+- [ ] Séance de révision et questions de révision

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-29.md",
+                "file": "LOG2990/LOG2990 - Organisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44a90531f0be50e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOG2440/Planification d'été 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-29.md",
+                "file": "LOG2440/Planification d'été 2024.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-29.md",
+                "file": "LOG2440/Planification d'été 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-29.md"
+                "file": "LOG2440/Planification d'été 2024.md"
               }
             }
           }
@@ -145,26 +158,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81cd3a36b6aee665",
+  "active": "44a90531f0be50e5",
   "lastOpenFiles": [
-    "LOG2440/Planification d'été 2024.md",
+    "LOG2990/Planification d'été 2024.md",
+    "LOG2990/LOG2990 - Organisation.md",
+    "LOG2990/LOG2990 - Varias.md",
     "LOG3900/Planification d'été 2024.md",
+    "Daily Notes/2024-05-30.md",
+    "LOG2440/LOG2440.md",
+    "LOG2440/Planification d'été 2024.md",
+    "LOG3900/Idées pour le cours.md",
+    "Pasted image 20240521141456.png",
+    "LOG2440/TP1.md",
+    "LOG2440/LOG2440 - TPs.md",
     "Daily Notes/2024-05-29.md",
     "Daily Notes/2024-05-28.md",
-    "LOG3900/Idées pour le cours.md",
-    "LOG2990/LOG2990 - Organisation.md",
     "Daily Notes/2024-05-24.md",
     "Daily Notes/2024-05-25.md",
     "Daily Notes/2024-05-21.md",
-    "LOG2440/TP1.md",
     "LOG2440/TP2.md",
-    "LOG2990/LOG2990 - Varias.md",
-    "LOG2440/LOG2440 - TPs.md",
-    "LOG2440/LOG2440.md",
     "LOG2440/TP4.md",
     "LOG2440/TP3.md",
     "README.MD",
-    "Pasted image 20240521141456.png",
     "2024-05-21.md",
     "Daily Notes",
     "LOG3900",
