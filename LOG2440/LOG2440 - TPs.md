@@ -10,7 +10,7 @@
 | 4       |         | Roman Roman        |            |
 | 5       |         | Antoine Poellhuber |            |
 | 6       |         | Basil Gil          |            |
-| 7       |         | ??                 |            |
+| 7       |         | Laurent Bourgon ?  |            |
 # Sujets des travaux
 
 ## [[TP1]]

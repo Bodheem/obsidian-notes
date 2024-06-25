@@ -17,6 +17,6 @@ Horaire : **vendredi 9h30 à 16h35**
 Chargés :
 - Enrique Rodriquez
 - François Desroches
-- À DÉTERMINER
+- Zachary Ouellet
 
 

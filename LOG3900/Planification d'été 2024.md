@@ -2,21 +2,32 @@
 
 ## Organisation
 
-- [ ] Terminer plan de cours (2 sections)
+- [ ] Terminer plan de cours (1 section)
 - [ ] Contacter Jinghui pour LOG3000 et le TP1 avec le SRS (ne plus partager ça)
-- [ ] Trouver 4 chargés
-	- [ ] A
-	- [ ] B
-	- [ ] C
-	- [ ] D
-- [ ] Trouver 1 chargé de cours (Jimmy Bell??)
+- [ ] Trouver 3 chargés
+	- [ ] Rachad Chazbek
+	- [ ] Fedwin Chatelier ?
+	- [ ] Eddy Manih
 - [?] Appliquer pour [Jira Education](https://www.atlassian.com/solutions/survey/academic-license-request#/) pour le rabais
-	- [ ] Attendre la réponse et faire une demande de cout au département
+	- [x] Attendre la réponse et faire une demande de cout au département
 - [ ] Investiguer Gitlab timesheets
+	- [ ] Ajouter une section dans les notes de cours sur Gitlab
+- [ ] Introduire la notion de rapport d'avancement 3x dans la session
+	- [ ] Monter un gabarit pour le document à remettre
+	- [ ] Remise 1 : 1 semaine après RAO
+	- [ ] Remise 2 : Semaine 9 (1-2 semaines après la relache)
+	- [ ] Remise 3 : Remise finale
 - [ ] Finir les dossiers sur GDrive
 - [ ] Créer les entrepôts sur GitLab (attendre le nombre final d'étudiants)
-- [ ] Créer la fiche de création d'équipes
-- [ ] Terminer la configuration du Discord
+- [ ] Revoir les gabarits pour les documents :
+	- [ ] Document d'architecture
+	- [ ] Plan de projet
+	- [ ] SRS
+	- [ ] Protocole de communication
+	- [ ] Plan de tests
+	- [ ] Résultats de tests
+- [x] Créer la fiche de création d'équipes
+- [x] Terminer la configuration du Discord
 
 
 ## Projet
@@ -52,10 +63,10 @@
 - [ ] Mise à jour des documents de correction avec les dates
 - [ ] Mise à jour des liste d'exigences
 - [ ] Revoir le fichier de suivi et calculs
-	- [ ] Passer la planification hebdomadaire à 0-5
-	- [ ] Simplifier la transition de notes à lettres
-	- [ ] Calculer la note d'oral + planification sans passer par TU dans REF_GRADE
-	- [ ] Revoir les seuils pour lettres à chiffre
+	- [x] Passer la planification hebdomadaire à 0-5
+	- [x] Simplifier la transition de notes à lettres
+	- [x] Calculer la note d'oral + planification sans passer par TU dans REF_GRADE
+	- [x] Revoir les seuils pour lettres à chiffre
 
 
 ## Cours théorique
@@ -65,7 +76,7 @@
 		- [ ] Bonifier la présentation des différents artéfacts
 	- [ ] Présentation du cours
 	- [ ] Éléments de planification
-		- [ ] Ajouter une section sur comment bien planifier et débuter un projet
+		- [ ] Refaire les notes de cours pour incorporer Gitlab
 		- [ ] Ajouter une section sur la planification agile
 - [ ] Trouver une étude de cas pour le cours 4
 	- [ ] Entrepreunariat ?
@@ -73,14 +84,13 @@
 
 ## Examen
 
-- [ ] Examen théorique : basculer vers QCM sur Moodle
-	- [ ] Au moins 1 question à développement court
-	- [ ] 1 question sur Suivi de l'avancement (question de calculs + 1 QCM basé sur les chiffres en haut)
-	- [ ] 2 questions sur Leadership
-	- [ ] 2 questions sur Ententes contractuelles
-	- [ ] 2 question sur Cycle d'acquisition
-	- [ ] 2 questions sur Éléments de planification
+- [x] Examen théorique : basculer vers QCM sur Moodle
+	- [x] Au moins 1 question à développement court
+	- [x] 1 question sur Suivi de l'avancement (question de calculs + 1 QCM basé sur les chiffres en haut)
+	- [x] 2 questions sur Leadership
+	- [x] 2 questions sur Ententes contractuelles
+	- [x] 2 question sur Cycle d'acquisition
+	- [x] 2 questions sur Éléments de planification
 	- [ ] 1 question sur cours 4
-	- [ ] 1 question sur Suivi de l'avancement théorique
-- [ ] Trouver un correcteur pour la question à développement
-- [ ] Établir une date pour l'examen (1er octobre ??)
+	- [x] 1 question sur Suivi de l'avancement théorique
+- [x] Établir une date pour l'examen (1er octobre)
