@@ -5,16 +5,15 @@ Préparation du cours [[LOG2990 - Organisation]]
 ## Organisation générale
 
 - [ ] Terminer plan de cours
-- [ ] Trouver 6 chargés de laboratoire [[LOG2990 - Organisation#^7e1f3e]]
+- [x] Trouver 6 chargés de laboratoire [[LOG2990 - Organisation#^7e1f3e]]
 - [ ] Finir les dossiers sur GDrive
 - [ ] Finir les dossiers de correction sur OneDrive
 - [ ] Configurer Gitlab
 - [ ] Nettoyer Moodle
-	- [ ] Créer les formulaires de création d'équipe
+	- [x] Créer les formulaires de création d'équipe
 	- [ ] Créer les formulaires pour l'évaluation par les pairs
 		- [ ] Revoir les formulaires suite à la discussion avec Renée Pascal
-	- [ ] 
-- [ ] Terminer la configuration du Discord
+- [x] Terminer la configuration du Discord
 ## Projet
 
 - [ ] Finaliser projet pour l'automne avec Laurent
@@ -51,8 +50,8 @@ Préparation du cours [[LOG2990 - Organisation]]
 
 ## Évaluations
 
-- [ ] Investiguer comment transférer les notes sur Moodle
-	- [ ] Voir si on peut cacher des notes, mais les rentrer quand même
+- [x] Investiguer comment transférer les notes sur Moodle
+	- [x] Voir si on peut cacher des notes, mais les rentrer quand même
 - [ ] Mettre à jour la grille de correction
 	- [ ] Mise à jour de la section **Assurance Qualité**
 	- [ ] Mise à jour de la section **Fonctionnalités**

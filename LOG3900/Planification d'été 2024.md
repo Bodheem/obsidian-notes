@@ -5,7 +5,7 @@
 - [ ] Terminer plan de cours (1 section)
 - [ ] Contacter Jinghui pour LOG3000 et le TP1 avec le SRS (ne plus partager ça)
 - [ ] Trouver 3 chargés
-	- [ ] Rachad Chazbek
+	- [x] Rachad Chazbek
 	- [ ] Fedwin Chatelier ?
 	- [ ] Eddy Manih
 - [?] Appliquer pour [Jira Education](https://www.atlassian.com/solutions/survey/academic-license-request#/) pour le rabais
@@ -35,10 +35,10 @@
 - [ ] Mise à jour du complément pédagogique
 - [x] Mise à jour de l'Appel d'offre
 - [ ] Mise à jour et bonification de l'**Aide à la rédaction des artéfacts**
-- [ ] Prototype
-	- [ ] Ajout de la fonctionnalité de création de compte + connexion avec MdP
-	- [ ] Mise à jour des documents de correction (ajustement de points)
-	- [ ] Mise à jour du chiffrier de correction (ajustement de points)
+- [x] Prototype
+	- [x] Ajout de la fonctionnalité de création de compte + connexion avec MdP
+	- [x] Mise à jour des documents de correction (ajustement de points)
+	- [x] Mise à jour du chiffrier de correction (ajustement de points)
 - [ ] Projet
 	- [ ] Revoir la pondération des fonctionnalités génériques
 	- [ ] Ajouter nouvelles fonctionnalités
@@ -59,8 +59,8 @@
 
 ## Évaluation
 
-- [ ] Mise à jour de la grille de correction pour le prototype
-- [ ] Mise à jour des documents de correction avec les dates
+- [x] Mise à jour de la grille de correction pour le prototype
+- [x] Mise à jour des documents de correction avec les dates
 - [ ] Mise à jour des liste d'exigences
 - [ ] Revoir le fichier de suivi et calculs
 	- [x] Passer la planification hebdomadaire à 0-5
@@ -74,7 +74,7 @@
 - [ ] Mise à jour du cours #1
 	- [ ] Présentation du projet intégrateur
 		- [ ] Bonifier la présentation des différents artéfacts
-	- [ ] Présentation du cours
+	- [x] Présentation du cours
 	- [ ] Éléments de planification
 		- [ ] Refaire les notes de cours pour incorporer Gitlab
 		- [ ] Ajouter une section sur la planification agile

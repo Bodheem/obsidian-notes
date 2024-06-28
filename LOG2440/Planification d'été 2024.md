@@ -6,11 +6,11 @@ Préparation du cours [[LOG2440]]
 
 - [ ] Terminer plan de cours
 - [ ] Trouver 7 chargés de laboratoire [[LOG2440 - TPs#Répartition de l'équipe]]
-- [ ] Trouver 2 chargés de cours
-	- [ ] Emilio Rivera
-	- [ ] Mehdi Lahlou
+- [x] Trouver 2 chargés de cours
+	- [x] Emilio Rivera
+	- [x] Mehdi Lahlou
 - [ ] Finir les dossiers sur GDrive
-- [ ] Créer organisation Github et appliquer pour Teams
+- [x] Créer organisation Github et appliquer pour Teams
 - [ ] Configurer Github Classroom
 - [ ] Nettoyer Moodle
 	- [ ] Revoir les quiz pour mettre des questions plus pertinantes /14
@@ -18,7 +18,7 @@ Préparation du cours [[LOG2440]]
 
 ## GitHub
 
-- [ ] Ajouter 2 exercices pour persistance
+- [ ] Ajouter 1 exercice pour persistance
 - [ ] Ajouter 1 exercice pour React
 - [ ] Ajouter 1 exercice pour Architecture ?? (ex : REST)
 - [ ] Revoir les typos dans les README
@@ -29,9 +29,9 @@ Préparation du cours [[LOG2440]]
 ## Évaluations
 
 - [ ] Mise à jour de la grille de notes pour les TPs
-- [ ] Configurer les notes sur Moodle
-- [ ] Investiguer comment transférer les notes sur Moodle
-	- [ ] Voir si on peut cacher des notes, mais les rentrer quand même
+- [x] Configurer les notes sur Moodle
+- [x] Investiguer comment transférer les notes sur Moodle
+	- [x] Voir si on peut cacher des notes, mais les rentrer quand même
 
 
 ## Cours théorique
@@ -42,15 +42,15 @@ Préparation du cours [[LOG2440]]
 - [ ] Cours #2 :
 	- [ ] Bonifier `README` sur Github
 	- [ ] Couper 5 slides
-- [ ] Cours #3 :
-	- [ ] Couper 2 slides
-	- [ ] Aller jusqu'à l'objet `this` 
-- [ ] Cours #4 :
-	- [ ] Revoir la théorie sur les modules
-	- [ ] Retirer les mixin
-- [ ] Cours #5 :
-	- [ ] Revoir la théorie de LocalStorage
-	- [ ] Revoir les notes de cours pour événement (graphique de propagation)
+- [x] Cours #3 :
+	- [x] Couper 2 slides
+	- [x] Aller jusqu'à l'objet `this` 
+- [x] Cours #4 :
+	- [x] Revoir la théorie sur les modules
+	- [x] Retirer les mixin
+- [x] Cours #5 :
+	- [x] Revoir la théorie de LocalStorage
+	- [x] Revoir les notes de cours pour événement (graphique de propagation)
 - [ ] Cours #6 :
 	- [ ] Simplifier les notes de cours
 	- [ ] Revoir le git pour màj les versions de Jest

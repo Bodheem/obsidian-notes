@@ -9,8 +9,8 @@
 | 3       |         | Kamel Daoudi       |            |
 | 4       |         | Roman Roman        |            |
 | 5       |         | Antoine Poellhuber |            |
-| 6       |         | Basil Gil          |            |
-| 7       |         | Laurent Bourgon ?  |            |
+| 6       |         | Maxime Gaudreau    |            |
+| 7       |         | Laurent Bourgon    |            |
 # Sujets des travaux
 
 ## [[TP1]]

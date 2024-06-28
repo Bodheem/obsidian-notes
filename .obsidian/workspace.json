@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7932c34d526f18c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LOG3900/Planification d'été 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ecfd7d8e9a6d095c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LOG2990/LOG2990 - Organisation.md",
+                "file": "LOG2440/LOG2440 - TPs.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LOG3900/Planification d'été 2024.md",
+                "file": "LOG2440/LOG2440 - TPs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LOG3900/Planification d'été 2024.md",
+                "file": "LOG2440/LOG2440 - TPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LOG3900/Planification d'été 2024.md"
+                "file": "LOG2440/LOG2440 - TPs.md"
               }
             }
           }
@@ -157,28 +145,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7932c34d526f18c3",
+  "active": "ecfd7d8e9a6d095c",
   "lastOpenFiles": [
-    "LOG2990/Planification d'été 2024.md",
-    "LOG2440/LOG2440 - TPs.md",
-    "LOG2440/LOG2440.md",
-    "LOG3900/Planification d'été 2024.md",
-    "LOG2990/LOG2990 - Organisation.md",
-    "Daily Notes/2024-06-06.md",
-    "LOG3900/Idées pour le cours.md",
-    "Pasted image 20240521141456.png",
     "LOG2440/Planification d'été 2024.md",
+    "LOG2440/LOG2440.md",
+    "LOG2990/Planification d'été 2024.md",
     "LOG2990/LOG2990 - Varias.md",
-    "Daily Notes/2024-05-30.md",
+    "LOG2990/LOG2990 - Organisation.md",
+    "LOG2440/LOG2440 - TPs.md",
+    "LOG3900/Planification d'été 2024.md",
+    "LOG2440/TP2.md",
     "LOG2440/TP1.md",
+    "LOG2440/TP3.md",
+    "LOG3900/Idées pour le cours.md",
+    "Daily Notes/2024-06-06.md",
+    "Pasted image 20240521141456.png",
+    "Daily Notes/2024-05-30.md",
     "Daily Notes/2024-05-29.md",
     "Daily Notes/2024-05-28.md",
     "Daily Notes/2024-05-24.md",
     "Daily Notes/2024-05-25.md",
     "Daily Notes/2024-05-21.md",
-    "LOG2440/TP2.md",
     "LOG2440/TP4.md",
-    "LOG2440/TP3.md",
     "README.MD",
     "2024-05-21.md",
     "Daily Notes",
